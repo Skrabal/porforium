@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(53, 58, 143);
+    height: 200vh;
+    bottom: 0cm;
+}
+.content{
+    flex: 1;
+    background-color: brown;
+}
+footer{
+    color: rgb(249, 249, 249);
+    justify-content: center;
+    display: flex;
+    background-color: brown;
+   position: fixed;
+   width: 100%;
+}
+.class{
+    position: fixed;
+    color: aliceblue;
+}
+.column{
+    
+    float: left;
+    width: 50%;
+    color: blue;
+   font-size: 500%;
+}
+.columnn{
+    font-size: 500%;
+    color: rgb(255, 255, 255);
+}
+
+.picture{
+    color: rgb(253, 253, 253);
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+
+}
+
