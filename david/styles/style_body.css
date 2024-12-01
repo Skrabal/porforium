@@ -23,7 +23,7 @@ footer{
     
     float: left;
     width: 50%;
-    color: blue;
+    color: rgb(0, 0, 0);
    font-size: 500%;
 }
 .columnn{
@@ -40,4 +40,18 @@ footer{
   height: 50%;
 
 }
-
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .text{
+ font-size: x-large;
+ 
+  }
