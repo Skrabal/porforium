@@ -1,7 +1,8 @@
 body{
-    background-color: rgb(53, 58, 143);
+    background-color: rgb(31, 16, 232);
     height: 200vh;
     bottom: 0cm;
+    height: 200vh;
 }
 .content{
     flex: 1;
@@ -55,3 +56,9 @@ footer{
  font-size: x-large;
  
   }
+.section{
+height: 1000vh;
+}
+.html{
+    scroll-behavior: smooth;
+}
