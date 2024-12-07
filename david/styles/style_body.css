@@ -44,6 +44,8 @@ footer{
 .column {
     float: left;
     width: 50%;
+    font-family:'Gambetta-Bold';
+    src: url('fonts/Gambetta-Bold.woff') format('woff');
   }
   
   /* Clear floats after the columns */
